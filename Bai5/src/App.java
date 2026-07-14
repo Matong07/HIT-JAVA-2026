@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int[] bang = {1,2,3,4,5,6,7,8,9};
+        int[] bang = {2,3,4,5,6,7,8,9};
         int[] lan ={1,2,3,4,5,6,7,8,9};
         for(int i: bang){
             System.out.println("Bang cuu chuong "+i);
