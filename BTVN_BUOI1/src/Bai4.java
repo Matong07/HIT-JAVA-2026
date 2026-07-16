@@ -7,7 +7,7 @@ public class Bai4 {
         for (int i = 0 ; i < diem.length;i++ ){
             do{System.out.print("Nhap diem cua hoc sinh "+(i+1)+": ");
             diem[i] = Double.parseDouble(sc.nextLine());
-        }while(diem[i]<0 && diem[i]>10);
+        }while(diem[i]<0 || diem[i]>10);
     }
     }
     public static double findMax(double[] diem) {
