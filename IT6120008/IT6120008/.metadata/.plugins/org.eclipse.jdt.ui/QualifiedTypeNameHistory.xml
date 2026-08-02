@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="objects.Address"/>
+    <fullyQualifiedTypeName name="objects.Person"/>
+    <fullyQualifiedTypeName name="baiktratx1.Address"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="Baitap.Feline"/>
+    <fullyQualifiedTypeName name="Baitap.Lion"/>
+    <fullyQualifiedTypeName name="Baitap1.Animal"/>
+    <fullyQualifiedTypeName name="Baitap.Circle"/>
+    <fullyQualifiedTypeName name="Baitap.Rectangle"/>
+    <fullyQualifiedTypeName name="Baitap1.Lion"/>
+    <fullyQualifiedTypeName name="Baitap1.Cat"/>
+    <fullyQualifiedTypeName name="Baitap1.Feline"/>
+    <fullyQualifiedTypeName name="Baitap1.Tiger"/>
+    <fullyQualifiedTypeName name="Baitap1.Hippo"/>
+    <fullyQualifiedTypeName name="Baitap1.Wolf"/>
+    <fullyQualifiedTypeName name="Baitap1.Dog"/>
+    <fullyQualifiedTypeName name="test.Category"/>
+    <fullyQualifiedTypeName name="test1.Category"/>
+    <fullyQualifiedTypeName name="test2.Category"/>
+    <fullyQualifiedTypeName name="objects.MyArrays"/>
+    <fullyQualifiedTypeName name="test2.Product"/>
+    <fullyQualifiedTypeName name="jse.Person"/>
+    <fullyQualifiedTypeName name="jse.Address"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="baiktratx1.Product"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="test1.InteriorImpl"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

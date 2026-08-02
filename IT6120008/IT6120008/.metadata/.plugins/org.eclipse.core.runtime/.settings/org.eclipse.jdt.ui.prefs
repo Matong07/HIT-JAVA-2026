@@ -1,0 +1,22 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="baiktratx1.Address"><rhs name\="baiktratx1.Address"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="Baitap.Animal"><rhs name\="Baitap.Lion"/></lhs><lhs name\="Baitap1.Animal"><rhs name\="Baitap1.Lion"/><rhs name\="Baitap1.Cat"/><rhs name\="Baitap1.Tiger"/><rhs name\="Baitap1.Hippo"/><rhs name\="Baitap1.Wolf"/><rhs name\="Baitap1.Dog"/></lhs><lhs name\="Baitap1.Feline"><rhs name\="Baitap1.Lion"/><rhs name\="Baitap1.Cat"/></lhs><lhs name\="Baitap1.Cat"><rhs name\="Baitap1.Cat"/></lhs><lhs name\="Baitap.Geometric"><rhs name\="Baitap.Circle"/><rhs name\="Baitap.Rectangle"/></lhs><lhs name\="Baitap1.Canine"><rhs name\="Baitap1.Wolf"/><rhs name\="Baitap1.Dog"/></lhs><lhs name\="jse.Person"><rhs name\="jse.Person"/></lhs><lhs name\="jse.Address"><rhs name\="jse.Address"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=windows-1258
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
