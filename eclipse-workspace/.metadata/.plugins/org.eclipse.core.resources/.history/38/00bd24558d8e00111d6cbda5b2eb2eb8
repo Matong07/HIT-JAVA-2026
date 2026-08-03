@@ -1,9 +1,0 @@
-package model;
-
-public class PlushToy extends Toy{
-	private String material;
-	public PlushToy(String material) {
-		super();
-		this.material = material;
-	}
-}
