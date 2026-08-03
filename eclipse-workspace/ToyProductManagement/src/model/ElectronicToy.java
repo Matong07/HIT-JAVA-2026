@@ -1,0 +1,31 @@
+package model;
+
+public class ElectronicToy extends Toy {
+	private int warranty;
+	
+	public ElectronicToy(int warranty,int id,String name, double price,int quatity) {
+		super(id, name,price,quatity );
+		this.warranty = warranty;
+	}
+
+	public int getWarranty() {
+		return warranty;
+	}
+
+	public void setWarranty(int warranty) {
+		this.warranty = warranty;
+	}
+	public double calculateDiscount(){
+		if(this.getPrice() > 500.0) {
+			return this.getPrice() * 0.05;
+		}else {
+			return 0;
+		}
+	}
+	public void printInfo() {
+		super.printInfo();
+		System.out.println("Thời gian bảo hành: "+warranty + "Tháng");
+		System.out.println("Số tiền được giảm giá: "+ this.calculateDiscount());
+	}
+}
+	
